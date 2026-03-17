@@ -1,0 +1,9 @@
+{
+  "name": "GuideNow Fisioterapia Reynosa",
+  "description": "Clínica de fisioterapia y rehabilitación especializada en adultos mayores, lesiones traumatológicas y atención a domicilio en Reynosa.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
